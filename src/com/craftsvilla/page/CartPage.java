@@ -47,7 +47,6 @@ public class CartPage extends BasePage
 	
 	public void mousehoveNclick(WebDriver driver)
 	{
-		//verifyElement(driver,10,accessories);
 		Actions action=new Actions(driver);
 		action.moveToElement(accessories).perform();
 				
