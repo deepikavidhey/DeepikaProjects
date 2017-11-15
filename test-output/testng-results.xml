@@ -2,30 +2,22 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[Your cart is Empty]]>
+      <![CDATA[Tesing jenkins]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="134151" started-at="2017-10-11T08:42:43Z" finished-at="2017-10-11T08:44:57Z">
+  <suite name="Default suite" duration-ms="33" started-at="2017-11-15T04:23:28Z" finished-at="2017-11-15T04:23:28Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="134151" started-at="2017-10-11T08:42:43Z" finished-at="2017-10-11T08:44:57Z">
-      <class name="com.craftsvilla.test.TestCart">
-        <test-method status="PASS" signature="openApp()[pri:0, instance:com.craftsvilla.test.TestCart@d2cc05a]" name="openApp" is-config="true" duration-ms="62093" started-at="2017-10-11T14:12:43Z" finished-at="2017-10-11T14:13:45Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- openApp -->
-        <test-method status="PASS" signature="testCartDetails()[pri:0, instance:com.craftsvilla.test.TestCart@d2cc05a]" name="testCartDetails" duration-ms="71938" started-at="2017-10-11T14:13:45Z" finished-at="2017-10-11T14:14:57Z">
+    <test name="Default test" duration-ms="33" started-at="2017-11-15T04:23:28Z" finished-at="2017-11-15T04:23:28Z">
+      <class name="com.craftsvilla.test.testTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.craftsvilla.test.testTest@3c0ecd4b]" name="test" duration-ms="9" started-at="2017-11-15T09:53:28Z" finished-at="2017-11-15T09:53:28Z">
           <reporter-output>
             <line>
-              <![CDATA[Your cart is Empty]]>
+              <![CDATA[Tesing jenkins]]>
             </line>
           </reporter-output>
-        </test-method> <!-- testCartDetails -->
-        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.craftsvilla.test.TestCart@d2cc05a]" name="closeApp" is-config="true" duration-ms="87" started-at="2017-10-11T14:14:57Z" finished-at="2017-10-11T14:14:57Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- closeApp -->
-      </class> <!-- com.craftsvilla.test.TestCart -->
+        </test-method> <!-- test -->
+      </class> <!-- com.craftsvilla.test.testTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
