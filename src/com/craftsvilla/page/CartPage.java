@@ -49,7 +49,8 @@ public class CartPage extends BasePage
 	{
 		Actions action=new Actions(driver);
 		action.moveToElement(accessories).perform();
-				
+		sleep(5);
+		watches.click();
 	}
 
 
